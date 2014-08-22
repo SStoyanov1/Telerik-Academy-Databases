@@ -1,0 +1,141 @@
+Database Systems Overview
+
+1. What database models do you know?
+
+Common logical data models for databases include:
+- Hierarchical database model
+- Network model
+- Relational model
+- Entity–relationship model
+- Enhanced entity–relationship model
+- Object model
+- Document model
+- Entity–attribute–value model
+- Star schema
+
+2. Which are the main functions performed by a Relational Database Management System (RDBMS)?
+
+Relational Database Management Systems are collections of software that facilitate the creation of, management of and access to depositories of data called databases. These databases are usually stored on computer hard discs or other magnetic storage media. RDBMS allow you to access data in these databases with "relational information." For example, a business that keeps a database of information on its customers can ask for the names of all the red-headed, left-handed customers who drive mopeds. This technology has added a new job description to corporate structure: the Data Base Administrator.
+
+3. Define what is 'table' in database term.
+
+Information stored in RDBMS are stored in tables. Each line in the table is a collection of data about one person or one part or other item. Usually employees can only access certain tables. All RDBMS have elaborate security interlocks to ensure that employees can only access information relevant to their jobs. For example, a table of employee salaries can only be seen by top level executives. At a university, student grades are not accessible to any department that allows student workers. Usually, only certain employees have the power to add or delete database entries.
+
+4. Explain the difference between a primary and foreign key.
+
+Primary Key and Unique Key are Entity integrity constraints
+Primary key allows each row in a table to be uniquely identified and ensures that no duplicate rows exist and no null values are entered.
+Foreign keys are used to reference unique columns in another table. So, for example, a foreign key can be defined on one table A, and it can reference some unique column(s) in another table B. Why would you want a foreign key? Well, whenever it makes sense to have a relationship between columns in two different tables.
+
+5. Explain the different kinds of relationships between tables in relational databases.
+
+One-to-One Relationships
+In a one-to-one relationship, each row in one database table is linked to one and only one other row in another table. In a one-to-one relationship between Table A and Table B, each row in Table A is linked to another row in Table B. The number of rows in Table A must equal the number of rows in Table B.
+It would be apparent that one-to-one relationships are not very useful since the database designer might as well simply merge both tables into a single table. This is true in general. However, there are some situations in which the one-to-one relationship may improve performance. For example, if a database table contains a few columns of data that is frequently used and the remaining columns being infrequently used, the database designer may split the single table into 2 tables linked through a one-to-one relationship. Such a design would reduce the overhead needed to retrieve the infrequently used columns whenever query is performed on the contents of the database table.
+
+One-to-Many Relationships
+In a one-to-many relationship, each row in the related to table can be related to many rows in the relating table. This effectively save storage as the related record does not need to be stored multiple times in the relating table.
+For example, all the customers belonging to a business is stored in a customer table while all the customer invoices are stored in an invoice table. Each customer can have many invoices but each invoice can only be generated for a single customer.
+
+Many-to-Many Relationships
+In a many-to-many relationship, one or more rows in a table can be related to 0, 1 or many rows in another table. A mapping table is required in order to implement such a relationship.
+For example, all the customers belonging to a bank is stored in a customer table while all the bank's products are stored in a product table. Each customer can have many products and each product can be assigned to many customers.
+
+06. When is a certain database schema normalized? What are the advantages of normalized databases?
+
+Database normalization is the process of organizing the fields and tables of a relational database to minimize redundancy. Normalization usually involves dividing large tables into smaller (and less redundant) tables and defining relationships between them. The objective is to isolate data so that additions, deletions, and modifications of a field can be made in just one table and then propagated through the rest of the database using the defined relationships.
+
+Benefits of normalization
+Normalization produces smaller tables with smaller rows:
+More rows per page (less logical I/O)
+More rows per I/O (more efficient)
+More rows fit in cache (less physical I/O)
+The benefits of normalization include:
+Searching, sorting, and creating indexes is faster, since tables are narrower, and more rows fit on a data page.
+You usually have more tables.
+You can have more clustered indexes (one per table), so you get more flexibility in tuning queries.
+Index searching is often faster, since indexes tend to be narrower and shorter.
+More tables allow better use of segments to control physical placement of data.
+You usually have fewer indexes per table, so data modification commands are faster.
+Fewer null values and less redundant data, making your database more compact.
+Triggers execute more quickly if you are not maintaining redundant data.
+Data modification anomalies are reduced.
+Normalization is conceptually cleaner and easier to maintain and change as your needs change.
+
+07. What are database integrity constraints and when are they used?
+
+Data integrity is normally enforced in a database system by a series of integrity constraints or rules. Three types of integrity constraints are an inherent part of the relational data model: entity integrity, referential integrity and domain integrity:
+
+Entity integrity concerns the concept of a primary key. Entity integrity is an integrity rule which states that every table must have a primary key and that the column or columns chosen to be the primary key should be unique and not null.
+Referential integrity concerns the concept of a foreign key. The referential integrity rule states that any foreign-key value can only be in one of two states. The usual state of affairs is that the foreign key value refers to a primary key value of some table in the database. Occasionally, and this will depend on the rules of the data owner, a foreign-key value can be null. In this case we are explicitly saying that either there is no relationship between the objects represented in the database or that this relationship is unknown.
+Domain integrity specifies that all columns in relational database must be declared upon a defined domain. The primary unit of data in the relational data model is the data item. Such data items are said to be non-decomposable or atomic. A domain is a set of values of the same type. Domains are therefore pools of values from which actual values appearing in the columns of a table are drawn.
+
+08. Point out the pros and cons of using indexes in a database.
+
+The benefits of indexing
+
+The index benefits may be many readers would think only "to improve the efficiency of data retrieval, reduce the cost of database IO.
+Indeed, in a field in a table in the database to create an index, the maximum benefit is the field as the search condition can greatly improve the efficiency, speed up retrieval time, reduce the amount of data that needs to be read in the retrieval process. Index benefits only to improve the retrieval efficiency of table data? Not, of course, the index there is a very important use, that is to reduce the cost of sorting the data. 
+
+We know that each index data are sorted in accordance with the key key stored Therefore, when the Query statement contains the sort grouping operation, if the sort field and key field coincides MySQL Query Optimizer will tell mysqld data, do not have to sort, because according to the index data obtained Sort meet customer requirements.
+If packet does it work? The grouping operation no way to directly use the index is complete. But the grouping operation is required to be sorted and grouped, so when the the Query statement contains grouping operation, and the grouping field also happens to be consistent and the key field, then mysqld can also use the index has sorted this feature omitted out packet the sort operation.
+Sort grouping operation is the major consumption of memory and CPU resources, during the sort to make good use of index grouping operation will greatly reduce the consumption of CPU resources.
+
+Index disadvantages
+
+The index benefits have been clear, but we can not only see these benefits, and that the index is Query Optimization Bible, if they find Query not fast enough to run will be in the WHERE clause conditions are all on the index.
+Indeed, the index can greatly improve the efficiency of data retrieval, can also improve the performance of the sort grouping operation, but there is a problem that can not be ignored is that the index is completely independent of the outside part of the data in the underlying data. The assumptions in the Table in ta Column CA created index idx_ta_ca, and any operation Update Column CA Column CA while MySQL in the profile table are required profile Column ca index data, Tune bring key change index profile Information. If there is no index on the Column CA, MySQL need to do is update table Column ca. Thus, the most obvious resource consumption is increased due to the amount of calculation of the IO and the adjustment of index profile. In addition, the Column CA index idx_ta_ca of need occupied storage space, and the space occupied by idx_ta_ca will continue to increase with the increase in the amount of Table ta data, so the index will bring an increase in consumption of the storage space resources.
+
+09. What's the main purpose of the SQL language?
+
+SQL is a special-purpose programming language designed for managing data held in a relational database management system (RDBMS).
+
+10. What are transactions used for? Give an example.
+
+Database transaction is collection of SQL queries which forms a logical one task. For transaction to be completed successfully all SQL queries has to run successfully. Database transaction executes either all or none, so for example if your database transaction contains 4 SQL queries and one of them fails then change made by other 3 queries will be rolled back. This way your database always remain consistent whether transaction succeeded or failed. Transaction is implemented in database using SQL keyword transaction, commit and rollback. Commit writes the changes made by transaction into database and rollback removes temporary changes logged in transaction log by database transaction.
+
+Example: transfer 900$ from Account 9001 to 9002
+
+start transaction
+select balance from Account where Account_Number='9001';
+select balance from Account where Account_Number='9002';
+update Account set balance=balance-900 here Account_Number='9001' ;
+update Account set balance=balance+900 here Account_Number='9002' ;
+commit; //if all sql queries succed
+rollback; //if any of Sql queries failed or error
+
+11. What is a NoSQL database?
+
+NoSQL, or 'Not Only SQL', represents the new class of data management technologies designed to meet the increasing volume, velocity, and variety of data that organizations are storing, processing, and analyzing.
+Compared to relational databases, NoSQL databases are more scalable and provide superior performance. NoSQL databases address the opportunities that the relational model does not, including:
+Large volumes of structured, semi-structured and unstructured data
+Agile sprints, quick iteration, and frequent code pushes
+Flexible, easy to use object-oriented programming
+Efficient, scale-out architecture instead of expensive, monolithic architecture
+
+12. Explain the classical non-relational data models.
+
+Non-relational data model database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. Motivations for this approach include simplicity of design, horizontal scaling and finer control over availability. The data structure (e.g. key-value, graph, or document) differs from the RDBMS, and therefore some operations are faster in NoSQL and some in RDBMS. There are differences though, and the particular suitability of a given NoSQL DB depends on the problem it must solve (e.g., does the solution use graph algorithms?).
+
+13. Give few examples of NoSQL databases and their pros and cons.
+
+NoSQL refers to a database that is not based on SQL (Structured Query Language), which is the language most commonly associated with relational databases. Essentially, NoSQL data isn't relational, NoSQL databases usually do not have schema, and they come with looser consistency models than traditional relational databases do.
+Examples: Casssandra, Lucene/Solr, Riak, MongoDB, CouchDB, Neo4J, Oracle NoSQL
+
+NoSQL pros (not ordered by importance):
+Mostly open source.
+Horizontal scalability. There’s no need for complex joins and data can be easily sharded and processed in parallel.
+Support for Map/Reduce. This is a simple paradigm that allows for scaling computation on cluster of computing nodes.
+No need to develop fine-grained data model – it saves development time.
+Easy to use.
+Very fast for adding new data and for simple operations/queries.
+No need to make significant changes in code when data structure is modified.
+Ability to store complex data types (for document based solutions) in a single item of storage.
+Cons:
+Immaturity. Still lots of rough edges.
+Possible database administration issues. NoSQL often sacrifices features that are present in SQL solutions “by default” for the sake of performance. For example, one needs to check different data durability modes and journaling in order not to be caught by surprise after a cold restart of the system. Memory consumption is one more important chapter to read up on in the database manual because memory is usually heavily used.
+No indexing support (Some solutions like MongoDB have indexing but it’s not as powerful as in SQL solutions).
+No ACID (Some solutions have just atomicity support on single object level).
+Bad reporting performance.
+Complex consistency models (like eventual consistency). CAP theorem states that it’s not possible to achieve consistency, availability and partitioning tolerance at the same time. NoSQL vendors are trying to make their solutions as fast as possible and consistency is most typical trade-off.
+Absence of standardization. No standard APIs or query language. It means that migration to a solution from different vendor is more costly. Also there are no standard tools (e.g. for reporting)
