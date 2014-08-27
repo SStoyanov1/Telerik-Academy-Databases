@@ -1,0 +1,5 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\07. AppendNewRowExcel\bin\Debug\_07.AppendNewRowExcel.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\07. AppendNewRowExcel\bin\Debug\_07.AppendNewRowExcel.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\07. AppendNewRowExcel\bin\Debug\_07.AppendNewRowExcel.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\07. AppendNewRowExcel\obj\Debug\_07.AppendNewRowExcel.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\07. AppendNewRowExcel\obj\Debug\_07.AppendNewRowExcel.pdb

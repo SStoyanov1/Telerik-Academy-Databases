@@ -13,6 +13,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. AddsNewProduct", "04. A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. GetsCategoriesImagesAndStoresThem", "05. GetImagesAndStoresThem\05. GetsCategoriesImagesAndStoresThem.csproj", "{53A5474B-73EF-49BE-A0DD-B81D865854BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. ReadsXlsxAndDisplays", "06. ReadsXlsxAndDisplays\06. ReadsXlsxAndDisplays.csproj", "{B8D790F8-81F6-4A46-9EFA-1425D219422A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. AppendNewRowExcel", "07. AppendNewRowExcel\07. AppendNewRowExcel.csproj", "{B41C6F17-A70F-452D-B187-4E705CFC6E93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. FindsAllProductsByString", "08. FindsAllProductsByString\08. FindsAllProductsByString.csproj", "{65ACAFDB-EAE8-4899-BABC-3EF1DB185C3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +45,18 @@ Global
 		{53A5474B-73EF-49BE-A0DD-B81D865854BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53A5474B-73EF-49BE-A0DD-B81D865854BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53A5474B-73EF-49BE-A0DD-B81D865854BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D790F8-81F6-4A46-9EFA-1425D219422A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D790F8-81F6-4A46-9EFA-1425D219422A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D790F8-81F6-4A46-9EFA-1425D219422A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D790F8-81F6-4A46-9EFA-1425D219422A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B41C6F17-A70F-452D-B187-4E705CFC6E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41C6F17-A70F-452D-B187-4E705CFC6E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41C6F17-A70F-452D-B187-4E705CFC6E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41C6F17-A70F-452D-B187-4E705CFC6E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65ACAFDB-EAE8-4899-BABC-3EF1DB185C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65ACAFDB-EAE8-4899-BABC-3EF1DB185C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65ACAFDB-EAE8-4899-BABC-3EF1DB185C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65ACAFDB-EAE8-4899-BABC-3EF1DB185C3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

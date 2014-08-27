@@ -1,0 +1,6 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\06. ReadsXlsxAndDisplays\bin\Debug\_06.ReadsXlsxAndDisplays.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\06. ReadsXlsxAndDisplays\obj\Debug\06. ReadsXlsxAndDisplays.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\06. ReadsXlsxAndDisplays\bin\Debug\_06.ReadsXlsxAndDisplays.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\06. ReadsXlsxAndDisplays\bin\Debug\_06.ReadsXlsxAndDisplays.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\06. ReadsXlsxAndDisplays\obj\Debug\_06.ReadsXlsxAndDisplays.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\06. ReadsXlsxAndDisplays\obj\Debug\_06.ReadsXlsxAndDisplays.pdb

@@ -1,0 +1,5 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\08. FindsAllProductsByString\bin\Debug\_08.FindsAllProductsByString.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\08. FindsAllProductsByString\bin\Debug\_08.FindsAllProductsByString.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\08. FindsAllProductsByString\bin\Debug\_08.FindsAllProductsByString.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\08. FindsAllProductsByString\obj\Debug\_08.FindsAllProductsByString.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\08. FindsAllProductsByString\obj\Debug\_08.FindsAllProductsByString.pdb

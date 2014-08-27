@@ -1,5 +1,11 @@
 <stylecopresultscache>
   <version>12</version>
+  <project key="1737051836">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <project key="-1688846957">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
   <sourcecode name="AddsNewProduct.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2014/04/01 10:18:24.000</styleCop>
@@ -115,7 +121,4 @@
       </violation>
     </violations>
   </sourcecode>
-  <project key="1737051836">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
 </stylecopresultscache>

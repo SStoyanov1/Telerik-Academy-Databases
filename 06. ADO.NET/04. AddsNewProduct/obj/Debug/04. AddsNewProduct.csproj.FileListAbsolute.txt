@@ -4,3 +4,9 @@ C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\ADO.NET\04. AddsNewProduct
 C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\ADO.NET\04. AddsNewProduct\obj\Debug\_04.AddsNewProduct.exe
 C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\ADO.NET\04. AddsNewProduct\obj\Debug\_04.AddsNewProduct.pdb
 C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\ADO.NET\04. AddsNewProduct\obj\Debug\04. AddsNewProduct.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\04. AddsNewProduct\bin\Debug\_04.AddsNewProduct.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\04. AddsNewProduct\obj\Debug\_04.AddsNewProduct.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\04. AddsNewProduct\obj\Debug\_04.AddsNewProduct.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\04. AddsNewProduct\bin\Debug\_04.AddsNewProduct.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\04. AddsNewProduct\bin\Debug\_04.AddsNewProduct.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\04. AddsNewProduct\obj\Debug\04. AddsNewProduct.csprojResolveAssemblyReference.cache

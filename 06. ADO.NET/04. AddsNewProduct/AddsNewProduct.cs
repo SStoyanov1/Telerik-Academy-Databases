@@ -11,21 +11,23 @@ namespace _04.AddsNewProduct
         public static void Main()
         {
             string productName = "Derby";
-            string supplierId = "1";
-            string categoryId = "1";
+            string supplierId = "2";
+            string categoryId = "2";
 
             SqlConnection dbCon = new SqlConnection("Server=.; " +
             "Database=Northwind; Integrated Security=true");
+
+            SqlCommand cmdInsertProduct = new SqlCommand(
+                "INSERT INTO Products(ProductName, SupplierID, CategoryID) " +
+                "VALUES (@name, @supplierid, @categoryid)", dbCon);
+            cmdInsertProduct.Parameters.AddWithValue("@name", productName);
+            cmdInsertProduct.Parameters.AddWithValue("@supplierid", supplierId);
+            cmdInsertProduct.Parameters.AddWithValue("@categoryid", categoryId);
+
             dbCon.Open();
 
             using (dbCon)
             {
-                SqlCommand cmdInsertProduct = new SqlCommand(
-                    "INSERT INTO Products(ProductName, SupplierID, CategoryID) " +
-                    "VALUES (@name, @supplierid, @categoryid)", dbCon);
-                cmdInsertProduct.Parameters.AddWithValue("@name", productName);
-                cmdInsertProduct.Parameters.AddWithValue("@supplierid", supplierId);
-                cmdInsertProduct.Parameters.AddWithValue("@categoryid", categoryId);
                 cmdInsertProduct.ExecuteNonQuery();
 
                 SqlCommand cmdSelectIdentity = new SqlCommand("SELECT @@Identity", dbCon);
