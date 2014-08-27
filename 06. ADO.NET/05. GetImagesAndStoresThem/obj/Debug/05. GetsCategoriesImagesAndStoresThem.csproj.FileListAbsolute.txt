@@ -1,0 +1,6 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\ADO.NET\05. GetImagesAndStoresThem\bin\Debug\_05.GetImagesAndStoresThem.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\ADO.NET\05. GetImagesAndStoresThem\obj\Debug\05. GetsCategoriesImagesAndStoresThem.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\ADO.NET\05. GetImagesAndStoresThem\bin\Debug\_05.GetImagesAndStoresThem.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\ADO.NET\05. GetImagesAndStoresThem\bin\Debug\_05.GetImagesAndStoresThem.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\ADO.NET\05. GetImagesAndStoresThem\obj\Debug\_05.GetImagesAndStoresThem.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\ADO.NET\05. GetImagesAndStoresThem\obj\Debug\_05.GetImagesAndStoresThem.pdb
