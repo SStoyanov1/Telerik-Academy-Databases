@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. AppendNewRowExcel", "07
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. FindsAllProductsByString", "08. FindsAllProductsByString\08. FindsAllProductsByString.csproj", "{65ACAFDB-EAE8-4899-BABC-3EF1DB185C3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. MySQLBookDatabase", "09. MySQLBookDatabase\09. MySQLBookDatabase.csproj", "{86E638A6-7580-4CBE-B847-5E4CF5457CF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. SQLiteBookDBOperations", "10. SQLiteBookDBOperations\10. SQLiteBookDBOperations.csproj", "{263B9F7B-86AB-4AFD-AFF3-BF55BF777089}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{65ACAFDB-EAE8-4899-BABC-3EF1DB185C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65ACAFDB-EAE8-4899-BABC-3EF1DB185C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65ACAFDB-EAE8-4899-BABC-3EF1DB185C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E638A6-7580-4CBE-B847-5E4CF5457CF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E638A6-7580-4CBE-B847-5E4CF5457CF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E638A6-7580-4CBE-B847-5E4CF5457CF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E638A6-7580-4CBE-B847-5E4CF5457CF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{263B9F7B-86AB-4AFD-AFF3-BF55BF777089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263B9F7B-86AB-4AFD-AFF3-BF55BF777089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263B9F7B-86AB-4AFD-AFF3-BF55BF777089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263B9F7B-86AB-4AFD-AFF3-BF55BF777089}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

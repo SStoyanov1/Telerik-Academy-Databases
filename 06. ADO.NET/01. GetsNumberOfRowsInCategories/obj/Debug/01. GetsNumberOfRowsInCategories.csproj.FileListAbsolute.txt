@@ -4,3 +4,6 @@ C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\ADO.NET\01. GetsNumberOfRo
 C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\ADO.NET\01. GetsNumberOfRowsInCategories\bin\Debug\_01.GetsNumberOfRowsInCategories.pdb
 C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\ADO.NET\01. GetsNumberOfRowsInCategories\obj\Debug\_01.GetsNumberOfRowsInCategories.exe
 C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\ADO.NET\01. GetsNumberOfRowsInCategories\obj\Debug\_01.GetsNumberOfRowsInCategories.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\01. GetsNumberOfRowsInCategories\bin\Debug\_01.GetsNumberOfRowsInCategories.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\01. GetsNumberOfRowsInCategories\obj\Debug\_01.GetsNumberOfRowsInCategories.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\01. GetsNumberOfRowsInCategories\obj\Debug\_01.GetsNumberOfRowsInCategories.pdb

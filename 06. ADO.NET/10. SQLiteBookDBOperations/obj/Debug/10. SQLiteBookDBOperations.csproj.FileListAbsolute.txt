@@ -1,0 +1,16 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\10. SQLiteBookDBOperations\bin\Debug\_10.SQLiteBookDBOperations.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\10. SQLiteBookDBOperations\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\10. SQLiteBookDBOperations\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\10. SQLiteBookDBOperations\bin\Debug\_10.SQLiteBookDBOperations.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\10. SQLiteBookDBOperations\bin\Debug\_10.SQLiteBookDBOperations.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\10. SQLiteBookDBOperations\bin\Debug\EntityFramework.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\10. SQLiteBookDBOperations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\10. SQLiteBookDBOperations\bin\Debug\System.Data.SQLite.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\10. SQLiteBookDBOperations\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\10. SQLiteBookDBOperations\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\10. SQLiteBookDBOperations\bin\Debug\EntityFramework.xml
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\10. SQLiteBookDBOperations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\10. SQLiteBookDBOperations\bin\Debug\System.Data.SQLite.xml
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\10. SQLiteBookDBOperations\obj\Debug\10. SQLiteBookDBOperations.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\10. SQLiteBookDBOperations\obj\Debug\_10.SQLiteBookDBOperations.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\06. ADO.NET\10. SQLiteBookDBOperations\obj\Debug\_10.SQLiteBookDBOperations.pdb
