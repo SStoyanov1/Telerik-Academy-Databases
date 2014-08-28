@@ -14,7 +14,7 @@ namespace _09.MySQLBookDatabase
         static void Main(string[] args)
         {
             string mySqlConnectionString = @"Server=localhost;Port=3306;" +
-                "Database=mydb;Uid=root;Pwd=Az9007317565;";
+                "Database=mydb;Uid=root;Pwd=root;";
 
             MySqlConnection bookDbCon = new MySqlConnection(mySqlConnectionString);
             string title = "Les miserables";
