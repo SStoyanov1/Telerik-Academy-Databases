@@ -1,0 +1,10 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\07. Entity Framework\11. UserGroupsTransaction\bin\Debug\_11.UserGroupsTransaction.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\07. Entity Framework\11. UserGroupsTransaction\obj\Debug\11. UserGroupsTransaction.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\07. Entity Framework\11. UserGroupsTransaction\bin\Debug\_11.UserGroupsTransaction.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\07. Entity Framework\11. UserGroupsTransaction\bin\Debug\_11.UserGroupsTransaction.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\07. Entity Framework\11. UserGroupsTransaction\bin\Debug\EntityFramework.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\07. Entity Framework\11. UserGroupsTransaction\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\07. Entity Framework\11. UserGroupsTransaction\bin\Debug\EntityFramework.xml
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\07. Entity Framework\11. UserGroupsTransaction\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\07. Entity Framework\11. UserGroupsTransaction\obj\Debug\_11.UserGroupsTransaction.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\07. Entity Framework\11. UserGroupsTransaction\obj\Debug\_11.UserGroupsTransaction.pdb
