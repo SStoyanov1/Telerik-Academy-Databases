@@ -1,0 +1,12 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\08. EmployeeExtension\bin\Debug\_08.EmployeeExtension.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\08. EmployeeExtension\bin\Debug\_08.EmployeeExtension.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\08. EmployeeExtension\bin\Debug\_08.EmployeeExtension.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\08. EmployeeExtension\bin\Debug\EntityFramework.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\08. EmployeeExtension\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\08. EmployeeExtension\bin\Debug\_01.NorthwindDbContex.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\08. EmployeeExtension\bin\Debug\_01.NorthwindDbContex.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\08. EmployeeExtension\bin\Debug\EntityFramework.xml
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\08. EmployeeExtension\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\08. EmployeeExtension\obj\Debug\_08.EmployeeExtension.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\08. EmployeeExtension\obj\Debug\_08.EmployeeExtension.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\08. EmployeeExtension\obj\Debug\08. EmployeeExtension.csprojResolveAssemblyReference.cache

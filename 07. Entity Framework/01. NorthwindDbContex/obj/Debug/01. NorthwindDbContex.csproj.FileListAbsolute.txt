@@ -1,0 +1,10 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\01. NorthwindDbContex\bin\Debug\_01.NorthwindDbContex.dll.config
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\01. NorthwindDbContex\bin\Debug\_01.NorthwindDbContex.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\01. NorthwindDbContex\bin\Debug\_01.NorthwindDbContex.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\01. NorthwindDbContex\bin\Debug\EntityFramework.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\01. NorthwindDbContex\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\01. NorthwindDbContex\bin\Debug\EntityFramework.xml
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\01. NorthwindDbContex\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\01. NorthwindDbContex\obj\Debug\_01.NorthwindDbContex.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\01. NorthwindDbContex\obj\Debug\_01.NorthwindDbContex.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\01. NorthwindDbContex\obj\Debug\01. NorthwindDbContex.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\06. NorthwindTwin\bin\Debug\_06.NorthwindTwin.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\06. NorthwindTwin\obj\Debug\_06.NorthwindTwin.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\06. NorthwindTwin\obj\Debug\_06.NorthwindTwin.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\06. NorthwindTwin\obj\Debug\06-07. NorthwindTwin.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\06. NorthwindTwin\bin\Debug\_06.NorthwindTwin.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\06. NorthwindTwin\bin\Debug\_06.NorthwindTwin.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\06. NorthwindTwin\bin\Debug\EntityFramework.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\06. NorthwindTwin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\06. NorthwindTwin\bin\Debug\_01.NorthwindDbContex.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\06. NorthwindTwin\bin\Debug\_02.DAO.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\06. NorthwindTwin\bin\Debug\_01.NorthwindDbContex.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\06. NorthwindTwin\bin\Debug\_02.DAO.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\06. NorthwindTwin\bin\Debug\EntityFramework.xml
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\06. NorthwindTwin\bin\Debug\EntityFramework.SqlServer.xml

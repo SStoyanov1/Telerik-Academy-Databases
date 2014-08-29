@@ -1,0 +1,15 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\10. GetIncomeBySupplierAndPeriod\bin\Debug\_10.GetIncomeBySupplierAndPeriod.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\10. GetIncomeBySupplierAndPeriod\obj\Debug\10. GetIncomeBySupplierAndPeriod.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\10. GetIncomeBySupplierAndPeriod\bin\Debug\_10.GetIncomeBySupplierAndPeriod.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\10. GetIncomeBySupplierAndPeriod\bin\Debug\_10.GetIncomeBySupplierAndPeriod.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\10. GetIncomeBySupplierAndPeriod\bin\Debug\EntityFramework.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\10. GetIncomeBySupplierAndPeriod\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\10. GetIncomeBySupplierAndPeriod\bin\Debug\_01.NorthwindDbContex.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\10. GetIncomeBySupplierAndPeriod\bin\Debug\_01.NorthwindDbContex.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\10. GetIncomeBySupplierAndPeriod\bin\Debug\EntityFramework.xml
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\10. GetIncomeBySupplierAndPeriod\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\10. GetIncomeBySupplierAndPeriod\obj\Debug\_10.GetIncomeBySupplierAndPeriod.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Entity Framework\10. GetIncomeBySupplierAndPeriod\obj\Debug\_10.GetIncomeBySupplierAndPeriod.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\07. Entity Framework\10. GetIncomeBySupplierAndPeriod\bin\Debug\_10.GetIncomeBySupplierAndPeriod.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\07. Entity Framework\10. GetIncomeBySupplierAndPeriod\obj\Debug\_10.GetIncomeBySupplierAndPeriod.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\07. Entity Framework\10. GetIncomeBySupplierAndPeriod\obj\Debug\_10.GetIncomeBySupplierAndPeriod.pdb

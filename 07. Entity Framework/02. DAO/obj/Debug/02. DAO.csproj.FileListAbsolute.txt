@@ -1,0 +1,12 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\02. DAO\bin\Debug\_02.DAO.exe.config
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\02. DAO\obj\Debug\02. DAO.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\02. DAO\bin\Debug\_02.DAO.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\02. DAO\bin\Debug\_02.DAO.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\02. DAO\bin\Debug\EntityFramework.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\02. DAO\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\02. DAO\bin\Debug\_01.NorthwindDbContex.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\02. DAO\bin\Debug\_01.NorthwindDbContex.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\02. DAO\bin\Debug\EntityFramework.xml
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\02. DAO\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\02. DAO\obj\Debug\_02.DAO.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework\02. DAO\obj\Debug\_02.DAO.pdb
