@@ -1,0 +1,5 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\13. XSLTransformation\bin\Debug\_13.XSLTransformation.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\13. XSLTransformation\bin\Debug\_13.XSLTransformation.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\13. XSLTransformation\bin\Debug\_13.XSLTransformation.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\13. XSLTransformation\obj\Debug\_13.XSLTransformation.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\13. XSLTransformation\obj\Debug\_13.XSLTransformation.pdb

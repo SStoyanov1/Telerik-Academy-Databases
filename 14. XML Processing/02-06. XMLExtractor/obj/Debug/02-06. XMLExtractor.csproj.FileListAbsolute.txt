@@ -1,0 +1,6 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\02-06. XMLExtractor\bin\Debug\_02_06.XMLExtractor.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\02-06. XMLExtractor\bin\Debug\_02_06.XMLExtractor.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\02-06. XMLExtractor\bin\Debug\_02_06.XMLExtractor.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\02-06. XMLExtractor\obj\Debug\02-06. XMLExtractor.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\02-06. XMLExtractor\obj\Debug\_02_06.XMLExtractor.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\02-06. XMLExtractor\obj\Debug\_02_06.XMLExtractor.pdb

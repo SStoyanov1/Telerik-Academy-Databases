@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<persons>
+  <person>
+    <name>Georgi Vurbanov</name>
+    <address>28 Tsarigradsko shose B, ap 62</address>
+    <phone-number>0888332211 </phone-number>
+  </person>
+</persons>

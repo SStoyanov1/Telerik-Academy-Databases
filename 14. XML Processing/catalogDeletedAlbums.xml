@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="Catalog of Albums">
+  <album>
+    <name>Thriller</name>
+    <artist>Michael Jackson</artist>
+    <year>1982</year>
+    <producer>Quincy Jones</producer>
+    <price currency="USD">18</price>
+    <songs>
+      <song>
+        <title>Billie Jean</title>
+        <duration>4:20</duration>
+      </song>
+      <song>
+        <title>Beat It</title>
+        <duration>4:40</duration>
+      </song>
+      <song>
+        <title>Wanna Be Startin' Somethin'</title>
+        <duration>4:50</duration>
+      </song>
+      <song>
+        <title>Human Nature</title>
+        <duration>6:20</duration>
+      </song>
+      <song>
+        <title>P.Y.T. (Pretty Young Thing)</title>
+        <duration>5:20</duration>
+      </song>
+      <song>
+        <title>Thriller</title>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>The Dark Side of the Moon</name>
+    <artist>Pink Floyd</artist>
+    <year>1973</year>
+    <producer>Pink Floyd</producer>
+    <price currency="USD">12</price>
+    <songs>
+      <song>
+        <title>Speak to Me</title>
+      </song>
+      <duration>4:20</duration>
+      <song>
+        <title>Breathe</title>
+        <duration>5:20</duration>
+      </song>
+      <song>
+        <title>On the Run</title>
+        <duration>4:40</duration>
+      </song>
+      <song>
+        <title>Time</title>
+        <duration>6:20</duration>
+      </song>
+      <song>
+        <title>The Great Gig in the Sky</title>
+        <duration>4:55</duration>
+      </song>
+      <song>
+        <title>Money</title>
+        <duration>5:20</duration>
+      </song>
+      <song>
+        <title>Us and Them</title>
+        <duration>4:30</duration>
+      </song>
+    </songs>
+  </album>
+</catalog>

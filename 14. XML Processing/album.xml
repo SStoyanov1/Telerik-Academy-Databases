@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<catalog name="Catalog of Albums">
+	<album>
+		<name>Thriller</name>
+		<artist>Michael Jackson</artist>
+	</album>
+	<album>
+		<name>The Dark Side of the Moon</name>
+		<artist>Pink Floyd</artist>
+	</album>
+	<album>
+		<name>Back in Black</name>
+		<artist>AC/DC</artist>
+	</album>
+	<album>
+		<name>Dangerous</name>
+		<artist>Michael Jackson</artist>
+	</album>
+	<album>
+		<name>Lulu</name>
+		<artist>Metallica</artist>
+	</album>
+</catalog>

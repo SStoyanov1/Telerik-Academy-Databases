@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="Catalog of Albums">
+  <album>
+    <name>Thriller</name>
+    <artist>Michael Jackson</artist>
+    <year>1982</year>
+    <producer>Quincy Jones</producer>
+    <price currency="USD">18</price>
+    <songs>
+      <song>
+        <title>Billie Jean</title>
+        <duration>4:20</duration>
+      </song>
+      <song>
+        <title>Beat It</title>
+        <duration>4:40</duration>
+      </song>
+      <song>
+        <title>Wanna Be Startin' Somethin'</title>
+        <duration>4:50</duration>
+      </song>
+      <song>
+        <title>Human Nature</title>
+        <duration>6:20</duration>
+      </song>
+      <song>
+        <title>P.Y.T. (Pretty Young Thing)</title>
+        <duration>5:20</duration>
+      </song>
+      <song>
+        <title>Thriller</title>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>The Dark Side of the Moon</name>
+    <artist>Pink Floyd</artist>
+    <year>1973</year>
+    <producer>Pink Floyd</producer>
+    <price currency="USD">12</price>
+    <songs>
+      <song>
+        <title>Speak to Me</title></song>
+      <duration>4:20</duration>
+      <song>
+        <title>Breathe</title>
+        <duration>5:20</duration>
+      </song>
+      <song>
+        <title>On the Run</title>
+        <duration>4:40</duration>
+      </song>
+      <song>
+        <title>Time</title>
+        <duration>6:20</duration>
+      </song>
+      <song>
+        <title>The Great Gig in the Sky</title>
+        <duration>4:55</duration>
+      </song>
+      <song>
+        <title>Money</title>
+        <duration>5:20</duration>
+      </song>
+      <song>
+        <title>Us and Them</title>
+        <duration>4:30</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Back in Black</name>
+    <artist>AC/DC</artist>
+    <year>1980</year>
+    <producer>Robert John "Mutt" Lange</producer>
+    <price currency="USD">21</price>
+    <songs>
+      <song>
+        <title>You Shook Me All Night Long</title>
+        <duration>4:50</duration>
+      </song>
+      <song>
+        <title>Hells Bells</title>
+        <duration>4:30</duration>
+      </song>
+      <song>
+        <title>Back in Black</title>
+        <duration>5:30</duration>
+      </song>
+      <song>
+        <title>Rock and Roll Ain't Noise Pollution</title>
+        <duration>6:30</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Dangerous</name>
+    <artist>Michael Jackson</artist>
+    <year>1991</year>
+    <producer>Michael Jackson</producer>
+    <price currency="USD">22</price>
+    <songs>
+      <song>
+        <title>Black or White</title>
+        <duration>4:30</duration>
+      </song>
+      <song>
+        <title>Remember the Time</title>
+        <duration>4:45</duration>
+      </song>
+      <song>
+        <title>In the Closet</title>
+        <duration>4:55</duration>
+      </song>
+      <song>
+        <title>Jam</title>
+        <duration>5:30</duration>
+      </song>
+      <song>
+        <title>Who Is It</title>
+        <duration>6:30</duration>
+      </song>
+      <song>
+        <title>Heal the World</title>
+        <duration>4:30</duration>
+      </song>
+      <song>
+        <title>Give In to Me</title>
+        <duration>5:30</duration>
+      </song>
+    </songs>
+  </album>
+    <album>
+    <name>Lulu</name>
+    <artist>Metallica</artist>
+    <year>2011</year>
+    <producer>Greg Fidelman, Metallica, Lou Reed, Hal Willner</producer>
+    <price currency="USD">22</price>
+    <songs>
+      <song>
+        <title>Brandenburg Gate</title>
+        <duration>4:30</duration>
+      </song>
+      <song>
+        <title>The View</title>
+        <duration>4:45</duration>
+      </song>
+      <song>
+        <title>Pumping Blood</title>
+        <duration>4:55</duration>
+      </song>
+      <song>
+        <title>Mistress Dread</title>
+        <duration>5:30</duration>
+      </song>
+      <song>
+        <title>Iced Honey</title>
+        <duration>6:30</duration>
+      </song>
+      <song>
+        <title>Cheat on Me</title>
+        <duration>4:30</duration>
+      </song>
+    </songs>
+  </album>
+</catalog>

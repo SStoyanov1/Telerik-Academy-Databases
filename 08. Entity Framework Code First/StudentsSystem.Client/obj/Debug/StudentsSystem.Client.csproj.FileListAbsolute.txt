@@ -1,0 +1,14 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\StudentsSystem\StudentsSystem.Client\bin\Debug\StudentsSystem.Client.exe.config
+c:\users\stoyan\documents\visual studio 2013\Projects\StudentsSystem\StudentsSystem.Client\bin\Debug\StudentsSystem.Client.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\StudentsSystem\StudentsSystem.Client\bin\Debug\StudentsSystem.Client.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\StudentsSystem\StudentsSystem.Client\bin\Debug\EntityFramework.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\StudentsSystem\StudentsSystem.Client\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\StudentsSystem\StudentsSystem.Client\bin\Debug\StudentsSystem.Data.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\StudentsSystem\StudentsSystem.Client\bin\Debug\StudentsSystem.Model.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\StudentsSystem\StudentsSystem.Client\bin\Debug\StudentsSystem.Data.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\StudentsSystem\StudentsSystem.Client\bin\Debug\StudentsSystem.Model.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\StudentsSystem\StudentsSystem.Client\bin\Debug\EntityFramework.xml
+c:\users\stoyan\documents\visual studio 2013\Projects\StudentsSystem\StudentsSystem.Client\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\stoyan\documents\visual studio 2013\Projects\StudentsSystem\StudentsSystem.Client\obj\Debug\StudentsSystem.Client.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2013\Projects\StudentsSystem\StudentsSystem.Client\obj\Debug\StudentsSystem.Client.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\StudentsSystem\StudentsSystem.Client\obj\Debug\StudentsSystem.Client.pdb

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<directories>
+  <files>
+    <name>album.xml</name>
+    <name>catalog.xml</name>
+    <name>catalog.xsl</name>
+    <name>catalogDeletedAlbums.xml</name>
+    <name>personalInfo.txt</name>
+    <name>personalInfo.xml</name>
+    <name>traverseDirectory.xml</name>
+    <name>XML Processing.sln</name>
+    <name>XML Processing.v12.suo</name>
+  </files>
+  <directory>
+    <files>
+      <name>02-06. XMLExtractor.csproj</name>
+      <name>App.config</name>
+      <name>XMLOperations.cs</name>
+    </files>
+    <directory>02-06. XMLExtractor<files /><directory>bin<files><name>_02_06.XMLExtractor.exe</name><name>_02_06.XMLExtractor.exe.config</name><name>_02_06.XMLExtractor.pdb</name><name>_02_06.XMLExtractor.vshost.exe</name><name>_02_06.XMLExtractor.vshost.exe.config</name></files><directory>Debug</directory><files /><directory>Release</directory></directory><files /><directory>obj<files><name>02-06. XMLExtractor.csproj.FileListAbsolute.txt</name><name>02-06. XMLExtractor.csprojResolveAssemblyReference.cache</name><name>DesignTimeResolveAssemblyReferencesInput.cache</name><name>TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</name><name>TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</name><name>TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</name><name>_02_06.XMLExtractor.exe</name><name>_02_06.XMLExtractor.pdb</name></files><directory>Debug<files /><directory>TempPE</directory></directory></directory><files><name>AssemblyInfo.cs</name></files><directory>Properties</directory></directory>
+    <files>
+      <name>07. TxtInfoToXmlGenerator.csproj</name>
+      <name>App.config</name>
+      <name>TxtInfoToXmlGenerator.cs</name>
+    </files>
+    <directory>07. TxtInfoToXmlGenerator<files /><directory>bin<files><name>_07.TxtInfoToXmlGenerator.exe</name><name>_07.TxtInfoToXmlGenerator.exe.config</name><name>_07.TxtInfoToXmlGenerator.pdb</name><name>_07.TxtInfoToXmlGenerator.vshost.exe</name><name>_07.TxtInfoToXmlGenerator.vshost.exe.config</name></files><directory>Debug</directory><files /><directory>Release</directory></directory><files /><directory>obj<files><name>07. TxtInfoToXmlGenerator.csproj.FileListAbsolute.txt</name><name>DesignTimeResolveAssemblyReferencesInput.cache</name><name>TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</name><name>TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</name><name>TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</name><name>_07.TxtInfoToXmlGenerator.exe</name><name>_07.TxtInfoToXmlGenerator.pdb</name></files><directory>Debug<files /><directory>TempPE</directory></directory></directory><files><name>AssemblyInfo.cs</name></files><directory>Properties</directory></directory>
+    <files>
+      <name>08. AlbumXmlCreator.csproj</name>
+      <name>AlbumXmlCreator.cs</name>
+      <name>App.config</name>
+    </files>
+    <directory>08. AlbumXmlCreator<files /><directory>bin<files><name>_08.AlbumXmlCreator.exe</name><name>_08.AlbumXmlCreator.exe.config</name><name>_08.AlbumXmlCreator.pdb</name><name>_08.AlbumXmlCreator.vshost.exe</name><name>_08.AlbumXmlCreator.vshost.exe.config</name></files><directory>Debug</directory><files /><directory>Release</directory></directory><files /><directory>obj<files><name>08. AlbumXmlCreator.csproj.FileListAbsolute.txt</name><name>DesignTimeResolveAssemblyReferencesInput.cache</name><name>TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</name><name>TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</name><name>TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</name><name>_08.AlbumXmlCreator.exe</name><name>_08.AlbumXmlCreator.pdb</name></files><directory>Debug<files /><directory>TempPE</directory></directory></directory><files><name>AssemblyInfo.cs</name></files><directory>Properties</directory></directory>
+    <files>
+      <name>09. TraverseDirectoryAndOutputsXml.csproj</name>
+      <name>App.config</name>
+      <name>TraverseDirectoryAndOutputsXml.cs</name>
+    </files>
+    <directory>09. TraverseDirectoryAndOutputsXml<files /><directory>bin<files><name>_09.TraverseDirectoryAndOutputsXml.exe</name><name>_09.TraverseDirectoryAndOutputsXml.exe.config</name><name>_09.TraverseDirectoryAndOutputsXml.pdb</name><name>_09.TraverseDirectoryAndOutputsXml.vshost.exe</name><name>_09.TraverseDirectoryAndOutputsXml.vshost.exe.config</name></files><directory>Debug</directory><files /><directory>Release</directory></directory><files /><directory>obj<files><name>09. TraverseDirectoryAndOutputsXml.csproj.FileListAbsolute.txt</name><name>DesignTimeResolveAssemblyReferencesInput.cache</name><name>TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</name><name>TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</name><name>TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</name><name>_09.TraverseDirectoryAndOutputsXml.exe</name><name>_09.TraverseDirectoryAndOutputsXml.pdb</name></files><directory>Debug<files /><directory>TempPE</directory></directory></directory><files><name>AssemblyInfo.cs</name></files><directory>Properties</directory></directory>
+    <files>
+      <name>10. TraverseDirectoryAndOutputsXmlXDoc.csproj</name>
+      <name>App.config</name>
+      <name>TraverseDirectoryAndOutputsXmlXDoc.cs</name>
+    </files>
+    <directory>10. TraverseDirectoryAndOutputsXmlXDoc<files /><directory>bin<files><name>_10.TraverseDirectoryAndOutputsXmlXDoc.exe</name><name>_10.TraverseDirectoryAndOutputsXmlXDoc.exe.config</name><name>_10.TraverseDirectoryAndOutputsXmlXDoc.pdb</name><name>_10.TraverseDirectoryAndOutputsXmlXDoc.vshost.exe</name><name>_10.TraverseDirectoryAndOutputsXmlXDoc.vshost.exe.config</name></files><directory>Debug</directory><files /><directory>Release</directory></directory><files /><directory>obj<files><name>10. TraverseDirectoryAndOutputsXmlXDoc.csproj.FileListAbsolute.txt</name><name>10. TraverseDirectoryAndOutputsXmlXDoc.csprojResolveAssemblyReference.cache</name><name>DesignTimeResolveAssemblyReferencesInput.cache</name><name>TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</name><name>TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</name><name>TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</name><name>_10.TraverseDirectoryAndOutputsXmlXDoc.exe</name><name>_10.TraverseDirectoryAndOutputsXmlXDoc.pdb</name></files><directory>Debug<files /><directory>TempPE</directory></directory></directory><files><name>AssemblyInfo.cs</name></files><directory>Properties</directory></directory>
+    <files>
+      <name>11. ExtractAlbumsPrices.csproj</name>
+      <name>App.config</name>
+      <name>ExtractAlbumsPrices.cs</name>
+    </files>
+    <directory>11. ExtractAlbumsPrices<files /><directory>bin<files><name>_11.ExtractAlbumsPrices.exe</name><name>_11.ExtractAlbumsPrices.exe.config</name><name>_11.ExtractAlbumsPrices.pdb</name><name>_11.ExtractAlbumsPrices.vshost.exe</name><name>_11.ExtractAlbumsPrices.vshost.exe.config</name></files><directory>Debug</directory><files /><directory>Release</directory></directory><files /><directory>obj<files><name>11. ExtractAlbumsPrices.csproj.FileListAbsolute.txt</name><name>DesignTimeResolveAssemblyReferencesInput.cache</name><name>TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</name><name>TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</name><name>TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</name><name>_11.ExtractAlbumsPrices.exe</name><name>_11.ExtractAlbumsPrices.pdb</name></files><directory>Debug<files /><directory>TempPE</directory></directory></directory><files><name>AssemblyInfo.cs</name></files><directory>Properties</directory></directory>
+    <files>
+      <name>12. ExtractAlbumsPricesLINQ.csproj</name>
+      <name>App.config</name>
+      <name>ExtractAlbumsPricesLINQ.cs</name>
+    </files>
+    <directory>12. ExtractAlbumsPricesLINQ<files /><directory>bin<files><name>_12.ExtractAlbumsPricesLINQ.exe</name><name>_12.ExtractAlbumsPricesLINQ.exe.config</name><name>_12.ExtractAlbumsPricesLINQ.pdb</name><name>_12.ExtractAlbumsPricesLINQ.vshost.exe</name><name>_12.ExtractAlbumsPricesLINQ.vshost.exe.config</name></files><directory>Debug</directory><files /><directory>Release</directory></directory><files /><directory>obj<files><name>12. ExtractAlbumsPricesLINQ.csproj.FileListAbsolute.txt</name><name>DesignTimeResolveAssemblyReferencesInput.cache</name><name>TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</name><name>TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</name><name>TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</name><name>_12.ExtractAlbumsPricesLINQ.exe</name><name>_12.ExtractAlbumsPricesLINQ.pdb</name></files><directory>Debug<files /><directory>TempPE</directory></directory></directory><files><name>AssemblyInfo.cs</name></files><directory>Properties</directory></directory>
+    <files>
+      <name>13. XSLTransformation.csproj</name>
+      <name>App.config</name>
+      <name>catalog.xml</name>
+      <name>catalog.xsl</name>
+      <name>XSLTransformation.cs</name>
+    </files>
+    <directory>13. XSLTransformation<files /><directory>bin<files><name>_13.XSLTransformation.exe.config</name><name>_13.XSLTransformation.vshost.exe</name><name>_13.XSLTransformation.vshost.exe.config</name></files><directory>Debug</directory><files /><directory>Release</directory></directory><files /><directory>obj<files><name>13. XSLTransformation.csproj.FileListAbsolute.txt</name><name>DesignTimeResolveAssemblyReferencesInput.cache</name><name>TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs</name><name>TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs</name><name>TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs</name></files><directory>Debug<files /><directory>TempPE</directory></directory></directory><files><name>AssemblyInfo.cs</name></files><directory>Properties</directory></directory>
+  </directory>
+</directories>

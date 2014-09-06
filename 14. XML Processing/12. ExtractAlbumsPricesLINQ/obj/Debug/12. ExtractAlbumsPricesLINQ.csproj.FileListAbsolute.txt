@@ -1,0 +1,5 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\12. ExtractAlbumsPricesLINQ\bin\Debug\_12.ExtractAlbumsPricesLINQ.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\12. ExtractAlbumsPricesLINQ\bin\Debug\_12.ExtractAlbumsPricesLINQ.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\12. ExtractAlbumsPricesLINQ\bin\Debug\_12.ExtractAlbumsPricesLINQ.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\12. ExtractAlbumsPricesLINQ\obj\Debug\_12.ExtractAlbumsPricesLINQ.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\12. ExtractAlbumsPricesLINQ\obj\Debug\_12.ExtractAlbumsPricesLINQ.pdb

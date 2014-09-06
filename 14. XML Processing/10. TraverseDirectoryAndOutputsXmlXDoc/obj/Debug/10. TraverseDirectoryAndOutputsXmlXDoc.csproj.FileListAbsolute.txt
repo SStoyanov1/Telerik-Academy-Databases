@@ -1,0 +1,6 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\10. TraverseDirectoryAndOutputsXmlXDoc\bin\Debug\_10.TraverseDirectoryAndOutputsXmlXDoc.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\10. TraverseDirectoryAndOutputsXmlXDoc\obj\Debug\10. TraverseDirectoryAndOutputsXmlXDoc.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\10. TraverseDirectoryAndOutputsXmlXDoc\bin\Debug\_10.TraverseDirectoryAndOutputsXmlXDoc.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\10. TraverseDirectoryAndOutputsXmlXDoc\bin\Debug\_10.TraverseDirectoryAndOutputsXmlXDoc.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\10. TraverseDirectoryAndOutputsXmlXDoc\obj\Debug\_10.TraverseDirectoryAndOutputsXmlXDoc.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\10. TraverseDirectoryAndOutputsXmlXDoc\obj\Debug\_10.TraverseDirectoryAndOutputsXmlXDoc.pdb

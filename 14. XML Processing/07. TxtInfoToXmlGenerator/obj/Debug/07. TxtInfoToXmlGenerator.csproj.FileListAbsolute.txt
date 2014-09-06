@@ -1,0 +1,5 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\07. TxtInfoToXmlGenerator\bin\Debug\_07.TxtInfoToXmlGenerator.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\07. TxtInfoToXmlGenerator\bin\Debug\_07.TxtInfoToXmlGenerator.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\07. TxtInfoToXmlGenerator\bin\Debug\_07.TxtInfoToXmlGenerator.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\07. TxtInfoToXmlGenerator\obj\Debug\_07.TxtInfoToXmlGenerator.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\XML Processing\07. TxtInfoToXmlGenerator\obj\Debug\_07.TxtInfoToXmlGenerator.pdb

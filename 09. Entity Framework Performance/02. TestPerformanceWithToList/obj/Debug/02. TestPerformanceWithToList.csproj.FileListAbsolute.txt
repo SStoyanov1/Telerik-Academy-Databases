@@ -1,0 +1,12 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework Performance\02. TestPerformanceWithToList\bin\Debug\_02.TestPerformanceWithToList.exe.config
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework Performance\02. TestPerformanceWithToList\obj\Debug\02. TestPerformanceWithToList.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework Performance\02. TestPerformanceWithToList\bin\Debug\_02.TestPerformanceWithToList.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework Performance\02. TestPerformanceWithToList\bin\Debug\_02.TestPerformanceWithToList.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework Performance\02. TestPerformanceWithToList\bin\Debug\EntityFramework.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework Performance\02. TestPerformanceWithToList\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework Performance\02. TestPerformanceWithToList\bin\Debug\_01.TestsPerformanceWithInclude.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework Performance\02. TestPerformanceWithToList\bin\Debug\_01.TestsPerformanceWithInclude.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework Performance\02. TestPerformanceWithToList\bin\Debug\EntityFramework.xml
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework Performance\02. TestPerformanceWithToList\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework Performance\02. TestPerformanceWithToList\obj\Debug\_02.TestPerformanceWithToList.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\Entity Framework Performance\02. TestPerformanceWithToList\obj\Debug\_02.TestPerformanceWithToList.pdb
