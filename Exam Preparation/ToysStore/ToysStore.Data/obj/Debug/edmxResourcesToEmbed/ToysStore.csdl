@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ToysStoreModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="AgeRanx">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MinimumAge" Type="Int32" Nullable="false" />
+    <Property Name="MaximumAge" Type="Int32" />
+    <NavigationProperty Name="Toys" Relationship="Self.FK_Toys_AgeRanges" FromRole="AgeRanges" ToRole="Toys" />
+  </EntityType>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Toys" Relationship="Self.Toys_Categories" FromRole="Categories" ToRole="Toys" />
+  </EntityType>
+  <EntityType Name="Manufacturer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Country" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Toys" Relationship="Self.FK_Toys_Manufacturers" FromRole="Manufacturers" ToRole="Toys" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Toy">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Type" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ManufacturerId" Type="Int32" Nullable="false" />
+    <Property Name="Price" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="Color" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="AgeRangeId" Type="Int32" />
+    <NavigationProperty Name="AgeRanx" Relationship="Self.FK_Toys_AgeRanges" FromRole="Toys" ToRole="AgeRanges" />
+    <NavigationProperty Name="Manufacturer" Relationship="Self.FK_Toys_Manufacturers" FromRole="Toys" ToRole="Manufacturers" />
+    <NavigationProperty Name="Categories" Relationship="Self.Toys_Categories" FromRole="Toys" ToRole="Categories" />
+  </EntityType>
+  <Association Name="FK_Toys_AgeRanges">
+    <End Role="AgeRanges" Type="Self.AgeRanx" Multiplicity="0..1" />
+    <End Role="Toys" Type="Self.Toy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AgeRanges">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Toys">
+        <PropertyRef Name="AgeRangeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Toys_Manufacturers">
+    <End Role="Manufacturers" Type="Self.Manufacturer" Multiplicity="1" />
+    <End Role="Toys" Type="Self.Toy" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Manufacturers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Toys">
+        <PropertyRef Name="ManufacturerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Toys_Categories">
+    <End Role="Categories" Type="Self.Category" Multiplicity="*" />
+    <End Role="Toys" Type="Self.Toy" Multiplicity="*" />
+  </Association>
+  <EntityContainer Name="ToysStoreEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="AgeRanges" EntityType="Self.AgeRanx" />
+    <EntitySet Name="Categories" EntityType="Self.Category" />
+    <EntitySet Name="Manufacturers" EntityType="Self.Manufacturer" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="Toys" EntityType="Self.Toy" />
+    <AssociationSet Name="FK_Toys_AgeRanges" Association="Self.FK_Toys_AgeRanges">
+      <End Role="AgeRanges" EntitySet="AgeRanges" />
+      <End Role="Toys" EntitySet="Toys" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Toys_Manufacturers" Association="Self.FK_Toys_Manufacturers">
+      <End Role="Manufacturers" EntitySet="Manufacturers" />
+      <End Role="Toys" EntitySet="Toys" />
+    </AssociationSet>
+    <AssociationSet Name="Toys_Categories" Association="Self.Toys_Categories">
+      <End Role="Categories" EntitySet="Categories" />
+      <End Role="Toys" EntitySet="Toys" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -13,12 +13,21 @@
 
             string filePath = @"..\..\..\catalog.xml";
 
-            XDocument catalogDocX = XDocument.Load(filePath);
-            var priceOfFiveYearsOrLaterAlbums = catalogDocX.Descendants("album").Where(a => int.Parse(a.Element("year").Value) >= DateTime.Now.Year - 5).Elements("price");
-
-            foreach (XElement price in priceOfFiveYearsOrLaterAlbums)
+            var document = XDocument.Load(filePath);
+            var prices = document.Descendants("album")
+                .Where(album => int.Parse(album.Descendants("year").FirstOrDefault().Value) <= 2009)
+                .Select(album => album.Descendants("price").FirstOrDefault().Value);
+            //
+            //XDocument catalogDocX = XDocument.Load(filePath);
+            //var priceOfFiveYearsOrLaterAlbums = catalogDocX.Descendants("album").Where(a => int.Parse(a.Element("year").Value) >= DateTime.Now.Year - 5).Elements("price");
+            //
+            //foreach (XElement price in priceOfFiveYearsOrLaterAlbums)
+            //{
+            //    Console.WriteLine("${0}", price.Value);
+            //}
+            foreach (string item in prices)
             {
-                Console.WriteLine("${0}", price.Value);
+                Console.WriteLine(item);
             }
         }
     }

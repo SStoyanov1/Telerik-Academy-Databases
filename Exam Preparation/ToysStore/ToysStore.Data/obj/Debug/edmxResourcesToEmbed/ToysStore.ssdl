@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ToysStoreModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AgeRanges">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MinimumAge" Type="int" Nullable="false" />
+    <Property Name="MaximumAge" Type="int" />
+  </EntityType>
+  <EntityType Name="Categories">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Manufacturers">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Country" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Toys">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Type" Type="nvarchar" MaxLength="50" />
+    <Property Name="ManufacturerId" Type="int" Nullable="false" />
+    <Property Name="Price" Type="money" />
+    <Property Name="Color" Type="nvarchar" MaxLength="50" />
+    <Property Name="AgeRangeId" Type="int" />
+  </EntityType>
+  <EntityType Name="Toys_Categories">
+    <Key>
+      <PropertyRef Name="CategoryId" />
+      <PropertyRef Name="ToyId" />
+    </Key>
+    <Property Name="CategoryId" Type="int" Nullable="false" />
+    <Property Name="ToyId" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Toys_AgeRanges">
+    <End Role="AgeRanges" Type="Self.AgeRanges" Multiplicity="0..1" />
+    <End Role="Toys" Type="Self.Toys" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AgeRanges">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Toys">
+        <PropertyRef Name="AgeRangeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Toys_Categories_Categories">
+    <End Role="Categories" Type="Self.Categories" Multiplicity="1" />
+    <End Role="Toys_Categories" Type="Self.Toys_Categories" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categories">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Toys_Categories">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Toys_Categories_Toys">
+    <End Role="Toys" Type="Self.Toys" Multiplicity="1" />
+    <End Role="Toys_Categories" Type="Self.Toys_Categories" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Toys">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Toys_Categories">
+        <PropertyRef Name="ToyId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Toys_Manufacturers">
+    <End Role="Manufacturers" Type="Self.Manufacturers" Multiplicity="1" />
+    <End Role="Toys" Type="Self.Toys" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Manufacturers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Toys">
+        <PropertyRef Name="ManufacturerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ToysStoreModelStoreContainer">
+    <EntitySet Name="AgeRanges" EntityType="Self.AgeRanges" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Categories" EntityType="Self.Categories" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Manufacturers" EntityType="Self.Manufacturers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Toys" EntityType="Self.Toys" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Toys_Categories" EntityType="Self.Toys_Categories" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Toys_AgeRanges" Association="Self.FK_Toys_AgeRanges">
+      <End Role="AgeRanges" EntitySet="AgeRanges" />
+      <End Role="Toys" EntitySet="Toys" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Toys_Categories_Categories" Association="Self.FK_Toys_Categories_Categories">
+      <End Role="Categories" EntitySet="Categories" />
+      <End Role="Toys_Categories" EntitySet="Toys_Categories" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Toys_Categories_Toys" Association="Self.FK_Toys_Categories_Toys">
+      <End Role="Toys" EntitySet="Toys" />
+      <End Role="Toys_Categories" EntitySet="Toys_Categories" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Toys_Manufacturers" Association="Self.FK_Toys_Manufacturers">
+      <End Role="Manufacturers" EntitySet="Manufacturers" />
+      <End Role="Toys" EntitySet="Toys" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

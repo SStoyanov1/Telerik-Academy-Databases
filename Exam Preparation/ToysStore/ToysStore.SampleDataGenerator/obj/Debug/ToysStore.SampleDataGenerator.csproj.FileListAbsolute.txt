@@ -1,0 +1,15 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\ToysStore.SampleDataGenerator\obj\Debug\ToysStore.SampleDataGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\ToysStore.SampleDataGenerator\bin\Debug\ToysStore.SampleDataGenerator.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\ToysStore.SampleDataGenerator\bin\Debug\ToysStore.SampleDataGenerator.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\ToysStore.SampleDataGenerator\bin\Debug\ToysStore.SampleDataGenerator.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\ToysStore.SampleDataGenerator\obj\Debug\ToysStore.SampleDataGenerator.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\ToysStore.SampleDataGenerator\obj\Debug\ToysStore.SampleDataGenerator.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\ToysStore.SampleDataGenerator\bin\Debug\EntityFramework.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\ToysStore.SampleDataGenerator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\ToysStore.SampleDataGenerator\bin\Debug\ToysStore.Data.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\ToysStore.SampleDataGenerator\bin\Debug\ToysStore.Data.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\ToysStore.SampleDataGenerator\bin\Debug\EntityFramework.xml
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\ToysStore.SampleDataGenerator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\ToysStore\ToysStore.SampleDataGenerator\bin\Debug\ToysStore.SampleDataGenerator.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\ToysStore\ToysStore.SampleDataGenerator\obj\Debug\ToysStore.SampleDataGenerator.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\ToysStore\ToysStore.SampleDataGenerator\obj\Debug\ToysStore.SampleDataGenerator.pdb
