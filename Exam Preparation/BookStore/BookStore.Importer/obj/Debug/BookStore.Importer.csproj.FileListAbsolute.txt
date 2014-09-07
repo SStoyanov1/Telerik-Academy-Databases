@@ -12,3 +12,17 @@ c:\users\stoyan\documents\visual studio 2013\Projects\BookStore\BookStore.Import
 c:\users\stoyan\documents\visual studio 2013\Projects\BookStore\BookStore.Importer\obj\Debug\BookStore.Importer.csprojResolveAssemblyReference.cache
 c:\users\stoyan\documents\visual studio 2013\Projects\BookStore\BookStore.Importer\obj\Debug\BookStore.Importer.exe
 c:\users\stoyan\documents\visual studio 2013\Projects\BookStore\BookStore.Importer\obj\Debug\BookStore.Importer.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\BookStore\BookStore.Importer\bin\Debug\BookStore.Importer.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\BookStore\BookStore.Importer\obj\Debug\BookStore.Importer.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\BookStore\BookStore.Importer\obj\Debug\BookStore.Importer.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\BookStore\BookStore.Importer\obj\Debug\BookStore.Importer.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\BookStore\BookStore.Importer\bin\Debug\BookStore.Importer.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\BookStore\BookStore.Importer\bin\Debug\BookStore.Importer.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\BookStore\BookStore.Importer\bin\Debug\BookStore.Data.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\BookStore\BookStore.Importer\bin\Debug\BookStore.Models.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\BookStore\BookStore.Importer\bin\Debug\EntityFramework.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\BookStore\BookStore.Importer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\BookStore\BookStore.Importer\bin\Debug\BookStore.Data.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\BookStore\BookStore.Importer\bin\Debug\BookStore.Models.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\BookStore\BookStore.Importer\bin\Debug\EntityFramework.xml
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks Databases\Exam Preparation\BookStore\BookStore.Importer\bin\Debug\EntityFramework.SqlServer.xml

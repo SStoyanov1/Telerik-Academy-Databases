@@ -46,7 +46,7 @@
                 {
                     var authorName = xmlQuery.Element("author-name").Value;
 
-                    queryInReviews.Where(r => r.Author.Name == authorName);
+                    queryInReviews = queryInReviews.Where(r => r.Author.Name == authorName);
                 }
 
                 var xmlResultSet = queryInReviews.OrderBy(r => r.CreatedOn).ThenBy(r => r.Content)
@@ -69,10 +69,27 @@
                 foreach (var reviewInResult in xmlResultSet)
                 {
                     var xmlReview = new XElement("review");
-                    var dateElement = new XElement("date");
                     xmlReview.Add(new XElement("date", reviewInResult.Date.ToString("d-MMM-yyyy")));
                     xmlReview.Add(new XElement("content", reviewInResult.Content));
-
+                    var xmlBookTitle = new XElement("book", reviewInResult.Book.Title);
+                    var xmlBookAuthors = new XElement("authors", string.Join(", ", reviewInResult.Book.Authors));
+                    var xmlBookIsbn = new XElement("isbn", reviewInResult.Book.ISBN);
+                    var xmlBookUrl = new XElement("url", reviewInResult.Book.URL);
+                    var xmlBook = new XElement("book");
+                    xmlBook.Add(xmlBookTitle);
+                    if (xmlBookAuthors != null)
+                    {
+                        xmlBook.Add(xmlBookAuthors);
+                    }
+                    if (xmlBookIsbn != null)
+                    {
+                        xmlBook.Add(xmlBookIsbn);
+                    }
+                    if (xmlBookUrl != null)
+                    {
+                        xmlBook.Add(xmlBookUrl);
+                    }
+                    xmlReview.Add(xmlBook);
                     xmlResultSets.Add(xmlReview);
                 }
 
