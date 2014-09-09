@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsStore.Models", "CarsStore.Model\CarsStore.Models.csproj", "{3F3D50AE-BC64-49A1-A63C-D115756280A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsStore.Data", "CarsStore.Data\CarsStore.Data.csproj", "{C81CAAE6-14D9-4EFF-9024-A3C28181C5F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsStore.Importer", "CarsStore.Importer\CarsStore.Importer.csproj", "{D087E883-12A3-4742-AF70-1C66B1A5406B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F3D50AE-BC64-49A1-A63C-D115756280A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3D50AE-BC64-49A1-A63C-D115756280A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3D50AE-BC64-49A1-A63C-D115756280A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3D50AE-BC64-49A1-A63C-D115756280A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C81CAAE6-14D9-4EFF-9024-A3C28181C5F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C81CAAE6-14D9-4EFF-9024-A3C28181C5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C81CAAE6-14D9-4EFF-9024-A3C28181C5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C81CAAE6-14D9-4EFF-9024-A3C28181C5F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D087E883-12A3-4742-AF70-1C66B1A5406B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D087E883-12A3-4742-AF70-1C66B1A5406B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D087E883-12A3-4742-AF70-1C66B1A5406B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D087E883-12A3-4742-AF70-1C66B1A5406B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

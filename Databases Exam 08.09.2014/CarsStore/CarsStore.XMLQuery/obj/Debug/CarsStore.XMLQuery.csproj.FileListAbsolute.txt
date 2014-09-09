@@ -1,0 +1,14 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.XMLQuery\obj\Debug\CarsStore.XMLQuery.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.XMLQuery\bin\Debug\CarsStore.XMLQuery.dll.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.XMLQuery\bin\Debug\CarsStore.XMLQuery.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.XMLQuery\bin\Debug\CarsStore.XMLQuery.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.XMLQuery\bin\Debug\CarsStore.Data.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.XMLQuery\bin\Debug\CarsStore.Model.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.XMLQuery\bin\Debug\EntityFramework.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.XMLQuery\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.XMLQuery\bin\Debug\CarsStore.Data.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.XMLQuery\bin\Debug\CarsStore.Model.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.XMLQuery\bin\Debug\EntityFramework.xml
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.XMLQuery\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.XMLQuery\obj\Debug\CarsStore.XMLQuery.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.XMLQuery\obj\Debug\CarsStore.XMLQuery.pdb

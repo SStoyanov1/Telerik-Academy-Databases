@@ -1,0 +1,14 @@
+Connection string for "Company" database: Databases Exam 08.09.2014\CompanySystem\CompanySystem.RandomDataGenerator\App.config
+Connection string for "Cars" database: Databases Exam 08.09.2014\CarsStore\CarsStore.Importer\App.config
+Relationships for "Company" database: (first-table : second-table - type of relationship)
+Departments : Employees - one to many
+Employees : Reports - one to many
+Employees : Projects - many to many by intermediate table EmployeesProjects
+Employees : Employees - one to itself because of ManagerId which is EmployeeId
+Relationships for "Cars" database: (first-table : second-table - type of relationship)
+Manufacturers : Cars - one to many
+Cities - Dealers - many to many
+Dealers - Cars - one to many
+Query files: Databases Exam 08.09.2014\CompanySystem\SQLQuery1.sql
+Databases Exam 08.09.2014\CompanySystem\SQLQuery2.sql
+Databases Exam 08.09.2014\CompanySystem\SQLQuery3.sql

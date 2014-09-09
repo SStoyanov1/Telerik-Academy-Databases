@@ -1,0 +1,30 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\CarsStore\CarsStore.Importer\bin\Debug\CarsStore.Importer.exe.config
+c:\users\stoyan\documents\visual studio 2013\Projects\CarsStore\CarsStore.Importer\obj\Debug\CarsStore.Importer.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2013\Projects\CarsStore\CarsStore.Importer\bin\Debug\CarsStore.Importer.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\CarsStore\CarsStore.Importer\bin\Debug\CarsStore.Importer.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\CarsStore\CarsStore.Importer\bin\Debug\CarsStore.Data.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\CarsStore\CarsStore.Importer\bin\Debug\CarsStore.Model.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\CarsStore\CarsStore.Importer\bin\Debug\EntityFramework.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\CarsStore\CarsStore.Importer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\CarsStore\CarsStore.Importer\bin\Debug\CarsStore.Data.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\CarsStore\CarsStore.Importer\bin\Debug\CarsStore.Model.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\CarsStore\CarsStore.Importer\bin\Debug\EntityFramework.xml
+c:\users\stoyan\documents\visual studio 2013\Projects\CarsStore\CarsStore.Importer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\stoyan\documents\visual studio 2013\Projects\CarsStore\CarsStore.Importer\obj\Debug\CarsStore.Importer.exe
+c:\users\stoyan\documents\visual studio 2013\Projects\CarsStore\CarsStore.Importer\obj\Debug\CarsStore.Importer.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.Importer\bin\Debug\CarsStore.Importer.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.Importer\obj\Debug\CarsStore.Importer.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.Importer\obj\Debug\CarsStore.Importer.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.Importer\bin\Debug\CarsStore.Importer.exe
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.Importer\bin\Debug\CarsStore.Importer.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.Importer\bin\Debug\CarsStore.Data.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.Importer\bin\Debug\CarsStore.Model.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.Importer\bin\Debug\EntityFramework.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.Importer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.Importer\bin\Debug\CarsStore.Data.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.Importer\bin\Debug\CarsStore.Model.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.Importer\bin\Debug\EntityFramework.xml
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.Importer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.Importer\obj\Debug\CarsStore.Importer.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.Importer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Databases Exam 08.09.2014\CarsStore\CarsStore.Importer\bin\Debug\Newtonsoft.Json.xml
